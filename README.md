@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev, net work, dank memes
 - 🌱 I’m currently expanding my skills in js
 - 💞️ I’m looking to collaborate on ewsdevs
-- 📫 How to reach me andrewscheidl.dev
+- 📫 How to reach me https://andrewscheidl.online
 
 <!---
 shydul/shydul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
